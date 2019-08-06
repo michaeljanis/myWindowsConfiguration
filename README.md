@@ -16,7 +16,7 @@ Step 1: Install WSL and Linux (I recommend Ubuntu) https://www.maketecheasier.co
 
 Step 2: Install Anaconda (python3 please) and VS Code on Ubuntu Linux: https://gist.github.com/kauffmanes/5e74916617f9993bc3479f401dfec7da
 
-Step 3: Install and configure a useful command line terminal for Linux and Anaconda: https://jackwarren.info/blog/cmder
+Step 3: Install and configure a useful command line terminal for Linux and Anaconda: https://jackwarren.info/blog/cmder and install and use zhs (my .zshrc file is in this project).
 
 Step 4: Configure VS Code for use in the WSL environment you've created https://code.visualstudio.com/docs/remote/wsl
 
