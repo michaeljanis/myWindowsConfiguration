@@ -22,7 +22,10 @@ Step 4: Configure VS Code for use in the WSL environment you've created https://
 
 Step 5: Work with windows files under WSL https://blogs.windows.com/windowsdeveloper/2016/07/22/fun-with-the-windows-subsystem-for-linux/
 
-Step 6: Blastoff!
+Step 6: Install Jekyll for webpage creation
+https://jekyllrb.com/
+
+Step 7: Blastoff!
 
 Configuration
 Dependencies
