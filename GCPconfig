@@ -1,0 +1,12 @@
+This helps you get started with GCP
+
+Get a Google Cloud Platform account
+https://cloud.google.com/gcp/
+
+Install the GCP SDK
+https://cloud.google.com/sdk/docs/quickstart-debian-ubuntu
+make sure you copy the entire command line from this quickstart - it's easy to copy part of the line and it will create a problem
+
+Start to learn and use gsutil
+gsutil cp ./index.html gs://www.yourbucket
+gsutil acl ch -u AllUsers:R gs://www.yourbucket.com/index.html
